@@ -9,4 +9,4 @@
 | 7.11.2025 | 4 | will your future be in cyber security | completed mod 5 |
 | 9.11.2025 | 2 | course final exam and end of course survey | exam & survey done |
 | 13.11.2025 | 2 | familiarizing and installing portswigger | completed |
-| 15.11.2025 | 6 | completing the 6 required labs | completed |
+| 15.11.2025 | 6 | completing the 6 required labs | completed labs |
