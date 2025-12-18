@@ -14,3 +14,4 @@
 | 26.11.2025 | 5 | booking system project phase 1 part 2 | completed |
 | 8.12.2025 | 6 | booking system project phase 2 | completed |
 | 12.12.2025 | 5 | booking system project phase 2 | completed |
+| 18.12.2025 | 5 | booking system project phase 3 | completed |
