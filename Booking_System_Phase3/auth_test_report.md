@@ -66,7 +66,6 @@ List actions an *Administrator* can perform.
 * “Can create a reservation — `http://localhost:8003/reservation`”
 * “Can delete a reservation — `http://localhost:8003/reservation?id=2`”
 * “Can manage all reservations — `http://localhost:8003/reservation?id=1`”
-* “Can view all users (spec 4)”
 
 ---
 
